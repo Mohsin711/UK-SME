@@ -19,3 +19,6 @@ Only run *Reset_temp_csv.py* once until you have not finished that part other wi
 
 # Step-4
 Run *Google_URL_extractor.py* to extract the URL of the companies using name
+
+# Step-5
+All the URLs will be stored in *Final_data.csv* 
