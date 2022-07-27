@@ -16,3 +16,6 @@ Change ```file_path='100_chuncks_with_index\part-x.csv'``` to required part in *
 ** WARNING! ** 
 <br />
 Only run *Reset_temp_csv.py* once until you have not finished that part other wise it will reset the *temp.csv*
+
+# Step-4
+Run *Google_URL_extractor.py* to extract the URL of the companies using name
