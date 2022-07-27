@@ -9,4 +9,10 @@ Install requirements by using
 ```pip install -r requirements.txt```
 
 # Step-3
-Copy a part(x) to temp.csv
+Copy a part(x) to temp.csv using *Reset_temp_csv.py*
+<br />
+Change ```file_path='100_chuncks_with_index\part-x.csv'``` to required part in *Reset_temp_csv.py*
+<br />
+** WARNING! ** 
+<br />
+Only run *Reset_temp_csv.py* once until you have not finished that part other wise it will reset the *temp.csv*
