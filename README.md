@@ -28,3 +28,10 @@ All the URLs will be stored in *Final_data.csv*
 # Extracting Email from URLs
 
 ## Step-1
+Copy a data to temp_email.csv using *Reset_email_temp.py*
+<br />
+Change ```file_path='Data-sent\Mohsin_data_p2.csv'``` to required file name containing URLs in *Reset_email_temp.py*
+<br />
+** WARNING! ** 
+<br />
+Only run *Reset_email_temp.py* once until you have not finished that part other wise it will reset the *temp_email.csv*
