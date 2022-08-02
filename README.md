@@ -24,3 +24,7 @@ Run *Google_URL_extractor.py* to extract the URL of the companies using name
 
 ## Step-5
 All the URLs will be stored in *Final_data.csv* 
+
+# Extracting Email from URLs
+
+## Step-1
