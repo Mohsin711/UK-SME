@@ -35,3 +35,10 @@ Change ```file_path='Data-sent\Mohsin_data_p2.csv'``` to required file name cont
 ** WARNING! ** 
 <br />
 Only run *Reset_email_temp.py* once until you have not finished that part other wise it will reset the *temp_email.csv*
+
+## Step-2
+Run *Email_extractor.py* to extract the Emails of the companies using URLs
+
+## Step-3
+All the URLs will be stored in *Final_data_email.csv* 
+
